@@ -1,6 +1,6 @@
 <html>
     <body>
-        <h2>Index page.</h2>
+        <h2>Index my page.</h2>
         <form method="get" action="/greeting">
             <button>Click me</button>
         </form>
